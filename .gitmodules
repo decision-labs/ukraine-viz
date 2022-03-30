@@ -1,0 +1,6 @@
+[submodule "hdx-scraper-ukraine-viz"]
+	path = hdx-scraper-ukraine-viz
+	url = https://github.com/OCHA-DAP/hdx-scraper-ukraine-viz.git
+[submodule "viz-ukraine-humanitarian-operations"]
+	path = viz-ukraine-humanitarian-operations
+	url = https://github.com/OCHA-DAP/viz-ukraine-humanitarian-operations.git
